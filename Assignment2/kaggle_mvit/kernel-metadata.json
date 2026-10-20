@@ -1,0 +1,21 @@
+{
+  "id": "juhilmodi/cooked-or-not-mvit-temporal-ensemble",
+  "title": "Cooked or Not - MViT temporal ensemble",
+  "code_file": "cooked-or-not-mvit-temporal-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "juhilmodi/cooked-or-not-r3d-domain-shift-experiment",
+    "juhilmodi/cooked-or-not-motion-event-transfer-experiment"
+  ],
+  "competition_sources": [
+    "cooked-or-not"
+  ],
+  "model_sources": []
+}

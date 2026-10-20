@@ -1,0 +1,51 @@
+[{"stream_name":"stderr","time":8.140451327,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.140540001,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.140547399999999,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.140551393,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.861797861,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.861858609,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.861909013,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.861912396,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":13.945475264,"data":"data /kaggle/input/competitions/cooked-or-not/crash_competition_data (3000, 3) (1750, 2)\n"}
+,{"stream_name":"stdout","time":35.097544476,"data":"train_motion_events.joblib 250 / 3000\n"}
+,{"stream_name":"stdout","time":56.175266111,"data":"train_motion_events.joblib 500 / 3000\n"}
+,{"stream_name":"stdout","time":76.340674462,"data":"train_motion_events.joblib 750 / 3000\n"}
+,{"stream_name":"stdout","time":97.000460431,"data":"train_motion_events.joblib 1000 / 3000\n"}
+,{"stream_name":"stdout","time":117.408824735,"data":"train_motion_events.joblib 1250 / 3000\n"}
+,{"stream_name":"stdout","time":138.864648031,"data":"train_motion_events.joblib 1500 / 3000\n"}
+,{"stream_name":"stdout","time":160.077816096,"data":"train_motion_events.joblib 1750 / 3000\n"}
+,{"stream_name":"stdout","time":181.762422893,"data":"train_motion_events.joblib 2000 / 3000\n"}
+,{"stream_name":"stdout","time":202.608054231,"data":"train_motion_events.joblib 2250 / 3000\n"}
+,{"stream_name":"stdout","time":224.852649684,"data":"train_motion_events.joblib 2500 / 3000\n"}
+,{"stream_name":"stdout","time":247.591947129,"data":"train_motion_events.joblib 2750 / 3000\n"}
+,{"stream_name":"stdout","time":269.265341045,"data":"train_motion_events.joblib 3000 / 3000\n"}
+,{"stream_name":"stdout","time":292.576938108,"data":"test_motion_events.joblib 250 / 1750\n"}
+,{"stream_name":"stdout","time":314.138155245,"data":"test_motion_events.joblib 500 / 1750\n"}
+,{"stream_name":"stdout","time":335.763978669,"data":"test_motion_events.joblib 750 / 1750\n"}
+,{"stream_name":"stdout","time":357.195306972,"data":"test_motion_events.joblib 1000 / 1750\n"}
+,{"stream_name":"stdout","time":379.323479676,"data":"test_motion_events.joblib 1250 / 1750\n"}
+,{"stream_name":"stdout","time":401.440030754,"data":"test_motion_events.joblib 1500 / 1750\n"}
+,{"stream_name":"stdout","time":422.689678087,"data":"test_motion_events.joblib 1750 / 1750\n"}
+,{"stream_name":"stdout","time":422.70133272099997,"data":"motion matrices (3000, 163) (1750, 163)\n"}
+,{"stream_name":"stdout","time":422.7837262,"data":"old matrices (3000, 512) (3000, 43)\n"}
+,{"stream_name":"stdout","time":462.112321328,"data":"R3D group OOF 0.76378\n"}
+,{"stream_name":"stdout","time":462.113721727,"data":"style group OOF 0.68249\n"}
+,{"stream_name":"stdout","time":462.11729141,"data":"motion LR group OOF 0.76924\n"}
+,{"stream_name":"stdout","time":462.12169229,"data":"motion HGB group OOF 0.83771\n"}
+,{"stream_name":"stdout","time":462.125945824,"data":"motion ET group OOF 0.8159\n"}
+,{"stream_name":"stdout","time":462.130835037,"data":"motion ensemble group OOF 0.8324\n"}
+,{"stream_name":"stdout","time":462.135697378,"data":"blend motion 0 group OOF 0.76378\n"}
+,{"stream_name":"stdout","time":462.141066801,"data":"blend motion 0.25 group OOF 0.80087\n"}
+,{"stream_name":"stdout","time":462.143303033,"data":"blend motion 0.5 group OOF 0.83319\n"}
+,{"stream_name":"stdout","time":462.150563855,"data":"blend motion 0.75 group OOF 0.85082\n"}
+,{"stream_name":"stdout","time":462.156075726,"data":"blend motion 1.0 group OOF 0.8324\n"}
+,{"stream_name":"stdout","time":471.409981848,"data":"READY submission_motion.csv (1750, 2) 0.08936120607807638 0.9885398277007325\n"}
+,{"stream_name":"stderr","time":474.923625936,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":474.923690541,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":475.123161025,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":475.12319551,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":475.921993119,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":476.304658522,"data":"[NbConvertApp] Writing 12311 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":479.366750746,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":480.436499867,"data":"[NbConvertApp] Writing 325609 bytes to __results__.html\n"}
+]

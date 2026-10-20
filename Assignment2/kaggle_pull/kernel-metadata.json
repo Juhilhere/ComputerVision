@@ -1,0 +1,21 @@
+{
+  "id": "juhilmodi/cooked-or-not-r3d-domain-shift-experiment",
+  "id_no": 136439889,
+  "title": "Cooked or Not - R3D domain-shift experiment",
+  "code_file": "cooked-or-not-r3d-domain-shift-experiment.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cooked-or-not"
+  ],
+  "model_sources": []
+}

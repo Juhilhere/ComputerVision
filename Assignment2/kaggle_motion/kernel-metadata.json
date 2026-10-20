@@ -1,0 +1,20 @@
+{
+  "id": "juhilmodi/cooked-or-not-motion-events",
+  "title": "Cooked or Not - motion event transfer experiment",
+  "code_file": "cooked-or-not-motion-events.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "juhilmodi/cooked-or-not-r3d-domain-shift-experiment"
+  ],
+  "competition_sources": [
+    "cooked-or-not"
+  ],
+  "model_sources": []
+}
