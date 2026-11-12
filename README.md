@@ -50,3 +50,5 @@ See [Assignment1/README.md](Assignment1/README.md) for detailed instructions, ma
   - **3D CNNs / R3D**: Spatio-temporal representation learning.
   - **Motion Event Transfer**: Optical flow and motion feature representations.
   - **Ensembling**: Gradient boosted trees (LightGBM) and weighted soft-voting over multi-backbone representations.
+
+Juhil Modi
